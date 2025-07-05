@@ -1,0 +1,9 @@
+{"api": "https://api.noire.my.id/api", 
+ "api_mod": "https://api.noire.my.id/api/mods", 
+ "api_player": "https://api.noire.my.id/api/player",
+ "api_use": "api",
+ "access_list": [
+     {"name": "hrtmain", "expired": "never"},
+     {"name": "vaii", "expired": "2025-7-2"},
+ ],
+}
