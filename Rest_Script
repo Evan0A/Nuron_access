@@ -1,6 +1,7 @@
 {"api": "https://api.noire.my.id/api", 
  "api_mod": "https://api.noire.my.id/api/mods", 
  "api_player": "https://api.noire.my.id/api/player",
+ "image_url": "https://cdn.discordapp.com/attachments/1365639857241718867/1390917457622863956/file_00000000869861f8a619ccba25240adf_1.png?ex=686a0053&is=6868aed3&hm=c5744a79d9f065b0175d4bdd2a0f6bbf95e3d6099eeca1504987a02976b8ea78&"
  "api_use": "api",
  "access_list": [
      {"name": "hrtmain", "expired": "never"},
