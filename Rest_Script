@@ -6,5 +6,6 @@
  "access_list": [
      {"name": "hrtmain", "expired": "never"},
      {"name": "vaii", "expired": "2025-7-2"},
+     {"name": "nipnio", "expired": "never"},
  ],
 }
